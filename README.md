@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gkaur507/gkaur507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# H1 Gursimar Kaur
-## H2 OPS445 NDD
+# Gursimar Kaur
+## OPS445 NDD
