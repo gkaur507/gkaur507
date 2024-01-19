@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 # Gursimar Kaur
 ## OPS445 NDD
+### **NDD is the section** and *OPS 445 is the course code*
+>~~ This is Lab 1.~~ 
+investigation2
